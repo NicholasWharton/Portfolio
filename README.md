@@ -1,4 +1,6 @@
 # Portfolio
 Portfolio website for school project
 
-Sorry the images flood the repo.
+Acsess the site at: https://nickggrae.github.io/Portfolio/main.html
+
+sorry for the clutter with all the images, I will fix it soon.
